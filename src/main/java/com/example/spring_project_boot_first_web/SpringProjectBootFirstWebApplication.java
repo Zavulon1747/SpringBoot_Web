@@ -1,5 +1,6 @@
 package com.example.spring_project_boot_first_web;
 
+import com.example.spring_project_boot_first_web.securing_web.WebSecurityConfig;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
